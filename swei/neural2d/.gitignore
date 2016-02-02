@@ -1,0 +1,49 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables and binary stuff:
+*.exe
+*.out
+*.app
+*.project
+
+# Individual neural2d files:
+# (Please list editor temp files, IDE project files, etc. in your
+# user-specific .gitignore file. The git command is something like
+# git config --global core.excludesfile ~/.gitignore)
+images/digits/*.bmp
+images/digits/inputData.txt
+images/digits/LICENSE
+images/digits/topology.txt
+inputDataUnitTest.txt
+neural2d
+topologyUnitTest.txt
+unitTest
+unitTestOutputRedirect
+unitTestTempOutput
+unitTestSavedWeights.txt
+weights.txt
+
+# CMake related
+build/
