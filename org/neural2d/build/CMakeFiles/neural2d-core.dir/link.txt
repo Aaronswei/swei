@@ -1,0 +1,2 @@
+/usr/bin/ar cr libneural2d-core.a  CMakeFiles/neural2d-core.dir/src/neural2d-core.cpp.o CMakeFiles/neural2d-core.dir/src/parseTopologyConfig.cpp.o CMakeFiles/neural2d-core.dir/src/imageReaderBMP.cpp.o CMakeFiles/neural2d-core.dir/src/imageReaderDat.cpp.o
+/usr/bin/ranlib libneural2d-core.a

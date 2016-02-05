@@ -1,0 +1,14 @@
+#############
+#ignore files
+*.txt
+*.log
+*.cbp
+*.depend
+*.layout
+#############
+
+###############
+#ignore folders
+/bin/*
+/obj/*
+###############

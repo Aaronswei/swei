@@ -1,0 +1,5 @@
+/home/swei/work.swei/neural2d/build/CMakeFiles/neural2d.dir
+/home/swei/work.swei/neural2d/build/CMakeFiles/neural2d-core.dir
+/home/swei/work.swei/neural2d/build/CMakeFiles/test.dir
+/home/swei/work.swei/neural2d/build/CMakeFiles/test-xor.dir
+/home/swei/work.swei/neural2d/build/CMakeFiles/unitTest.dir

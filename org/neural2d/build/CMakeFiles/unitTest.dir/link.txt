@@ -1,0 +1,1 @@
+/opt/ubuntu14/gcc/bin/g++   -g    CMakeFiles/unitTest.dir/src/unitTest.cpp.o  -o unitTest -rdynamic libneural2d-core.a 

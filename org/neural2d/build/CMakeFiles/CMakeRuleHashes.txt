@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+74f814bde993dd1a054afd164d1f2788 ../images/digits/test-1.bmp
+4fbcfa297f88efcd4705fb1e06edb68f CMakeFiles/test
+f262ee10e5da96a47db0e3dbc257b1bc CMakeFiles/test-xor
